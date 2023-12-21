@@ -1,0 +1,9 @@
+// style.scss
+@import "variables";
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+  font-family: $font-family;
+}
+// Add more custom styles here
